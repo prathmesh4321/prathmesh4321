@@ -213,24 +213,17 @@
                 </h2>
             </section>
             <section class="column">
-                <h3 class="field">Most used languages</h3>
-                <small>estimation from 116kb of code in 95 edited files across 54 commits</small>
+                <h3 class="field">Recently used languages</h3>
+                <small>estimation from 20.7kb of code in 42 edited files across 60 commits over last 88 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="332.7535097588417" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="332.7535097588417" y="0" width="121.41107795659475" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="454.1645877154364" y="0" width="5.835412284563583" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="449.93291967130637" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="449.93291967130637" y="0" width="10.067080328693612" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Java
-                    </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
@@ -239,7 +232,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Shell
                     </div>
@@ -247,7 +240,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Jan 2023, 01:14:48  with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 31 Jan 2023, 01:15:09  with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
