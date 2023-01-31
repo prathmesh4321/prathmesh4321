@@ -20,7 +20,6 @@ jobs:
       - name: Languages Used
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics/languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_languages: yes
           plugin_languages_indepth: yes
